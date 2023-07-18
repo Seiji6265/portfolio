@@ -87,3 +87,8 @@ footer {
     left: 0;
     width: 100%;
 }
+footer i{
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+}
